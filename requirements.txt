@@ -6,3 +6,5 @@ PyPDF2
 huggingface_hub
 transformers
 accelerate
+
+-e .
